@@ -21,3 +21,10 @@ elif z < y and z < x :
 # nilai sama
 if x == y and y == z and y == x :
     print (f'Nilai Sama Tidak Ada Yang Terkecil dan Tidak Ada Yang Terbesar')
+
+# or
+# nilai_terbesar = max(x, y,z)
+# nilai_terkecil = min(x, y, z)
+
+# print('''Nilai terbesar : {nilai_terbesar}
+# Nilai Terkecil : {nilai_terkecil}''')
