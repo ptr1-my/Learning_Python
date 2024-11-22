@@ -1,4 +1,4 @@
-n = input("Masukkan Nama Anda: aqw")
+n = input("Masukkan Nama Anda: ")
 gp = int(input("Masukkan Nominal Gaji Pokok Anda: "))
 
 t = int(0.20*gp)

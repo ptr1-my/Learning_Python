@@ -1,6 +1,6 @@
 # menetukkan bilangan bulat, positif, negatif, nol
 
-a = float(int(input("Masukkan Bilangan : ")))
+a = float(input("Masukkan Bilangan : "))
 
 def cek_bilangan(a):
     if a > 0:
